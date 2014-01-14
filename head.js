@@ -1,4 +1,8 @@
-var hogs = prompt("How many hogs?",'Hogs')
+var hogs = prompt("How many hogs?",'Hogs');
+if(isNaN('hogs')>0) {
+  console.log("That is not a number.")
+  hogs;
+}
 var side = hogs*2;
 
 // primal=["subprimal";"subprimal"]
