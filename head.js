@@ -1,5 +1,6 @@
-var head = prompt('How many head?','Head')
-var side = prompt*2);
+var hogs = prompt('How many hogs?','Hogs')
+var side = prompt*2;
+  console.log("There are " + prompt + " sides of pork.")
 
 head=["cheek";"jowl";"split head"]
 shoulder=["boston butt";"picnic ham";"fore shank";"fore trotter";"whole shoulder";"long shoulder";"long shoulder w/hoof"]
