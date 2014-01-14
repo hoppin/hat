@@ -1,5 +1,5 @@
-var hogs = prompt('How many hogs?','Hogs')
-var side = prompt*2;
+var hogs = prompt("How many hogs?",'Hogs')
+var side = hogs*2;
 
 // primal=["subprimal";"subprimal"]
 // some subprimals eliminate other subprimals within the side
